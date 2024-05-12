@@ -29,5 +29,3 @@ EXEL projects.....
 Выполнено по условиям задания. Добавлены возможности кнопочного выбора.
 
 Ссылка: https://docs.google.com/spreadsheets/d/1V9uJ8KdKhV6gWtBpqovh-HlcKjKBUM2XQjF3dut2Vjc/edit?usp=sharing
-
-2. 
