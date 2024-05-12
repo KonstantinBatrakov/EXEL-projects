@@ -1,7 +1,9 @@
 # EXEL-projects
 EXEL projects.....
+Ссылки на работы в Google Drive^
+1. https://docs.google.com/spreadsheets/d/1V9uJ8KdKhV6gWtBpqovh-HlcKjKBUM2XQjF3dut2Vjc/edit?usp=sharing
 
-Ссылки на Google Drive
+ОПИСАНИЕ РАБОТ!
 1. Анализ данных и выизуализация Дашбордов.
 
 Объединил все листы в 1 с помощью фнукции Query. Создал сводную таблицу unit_назначение_мастера с фильтром ""март/апрель"", через кнопку создать сводную таблицу."
@@ -28,4 +30,4 @@ EXEL projects.....
 
 Выполнено по условиям задания. Добавлены возможности кнопочного выбора.
 
-Ссылка: https://docs.google.com/spreadsheets/d/1V9uJ8KdKhV6gWtBpqovh-HlcKjKBUM2XQjF3dut2Vjc/edit?usp=sharing
+
